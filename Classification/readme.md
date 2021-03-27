@@ -1,4 +1,6 @@
-# TKDM
+# Classification
+
+This folder contains classification parts of FBNE-PU, includes nnPU and MLP training.
 
 ## Requirements
 
